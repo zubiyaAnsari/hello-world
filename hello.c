@@ -2,4 +2,5 @@
 main()
 {
 print("FYCS")
+print("SYCS")
 }
